@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetCoreApplication", "ASPNetCoreApplication\ASPNetCoreApplication.csproj", "{128C2F5B-509A-424A-B430-66E252AD19EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{A1DA6A1B-87B7-41A5-8D45-45BA8789B431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128C2F5B-509A-424A-B430-66E252AD19EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128C2F5B-509A-424A-B430-66E252AD19EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128C2F5B-509A-424A-B430-66E252AD19EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128C2F5B-509A-424A-B430-66E252AD19EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1DA6A1B-87B7-41A5-8D45-45BA8789B431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DA6A1B-87B7-41A5-8D45-45BA8789B431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DA6A1B-87B7-41A5-8D45-45BA8789B431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DA6A1B-87B7-41A5-8D45-45BA8789B431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8593BC1B-DBF4-4950-97CF-1E22A4AC4526}
+	EndGlobalSection
+EndGlobal
